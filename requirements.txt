@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+pandas
+torch
+torchvision
+fastapi
+uvicorn
+scikit-learn
+matplotlib

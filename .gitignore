@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset
+dataset/raw_videos/
+dataset/processed/
+dataset/dataset.csv
+
+# Models
+models/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Flutter build
+mobile_app/fitvision_app/build/
+
+# Logs
+*.log
